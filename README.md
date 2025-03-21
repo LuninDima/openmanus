@@ -44,8 +44,10 @@ cd OpenManus
 ```bash
 pip install -r requirements.txt
 ```
-7. установите playwright, чтобы Manus мог использовать браузер. 
+7. установите playwright и зависимостей, чтобы Manus мог использовать браузер. 
 ```bash
+pip install playwright
+
 python -m playwright install
 ```
 
