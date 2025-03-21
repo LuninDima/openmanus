@@ -51,7 +51,7 @@ python -m playwright install
 
 ## Сконфигурийте файл настройки. 
 
-1. Отредактируйте файл `config/config.toml` и добавьте свой API ключ. Здесь используется бесплатный APi ключ от Gemini. Но вы можете использовать другие языковые модели:
+1. Отредактируйте файл `config/config.toml` и добавьте свой API ключ. Здесь используется бесплатный APi ключ от Gemini (https://aistudio.google.com/app/apikey). Но вы можете использовать другие языковые модели:
 
 ```toml
 # Global LLM configuration
